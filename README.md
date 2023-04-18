@@ -1,4 +1,4 @@
-# Cloud Native Resource Monitoring Python App on K8s!
+# Cloud Native Resource Monitoring Python App!
 Created a Monitoring Application in Python using Flask and psutil
 How to run a Python App locally.
 Learn Docker and How to containerize a Python application
